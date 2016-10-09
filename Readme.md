@@ -63,6 +63,11 @@ consists of basically three parts:
 ![](https://github.com/WeaklyChicken/ES2016_14353087/blob/master/exampleResult.png)
 
 
+###实验感想###
+1.通过本次实验，我了解了分布式操作布局dol，并成功地安装了DOL开发环境的配置。
+
+2.通过查看本次实验的文档和廖雪峰的网站，我对git有了一定的了解。并能通过将github与虚拟机上的git相关联，实现上传，修改等操作。
+
 
 
 
