@@ -35,9 +35,9 @@ consists of basically three parts:
 - 新建一个临时文件夹objdir (`mkdir objdir`)
 - 进入该文件夹（`cd objdir`）
 - 运行configure(`../configure CXX=g++ --disable-async-updates`)
-- ![ss](https://github.com/WeaklyChicken/ES2016_14353087/scompile.png)
+- ![](https://github.com/WeaklyChicken/ES2016_14353087/blob/master/scompile.png)
 - 编译（`sudo make install`）
-- ![ss](https://github.com/WeaklyChicken/ES2016_14353087/scompile2.png)
+- ![](https://github.com/WeaklyChicken/ES2016_14353087/blob/master/scompile2.png)
 - 记录当前工作路径后面有用到（`pwd`),我的结果是
 (`/home/humingcongubuntu/systemc-2.3.1`) 
 
@@ -60,7 +60,7 @@ consists of basically three parts:
 	`ant -f runexample.xml -Dnumber=1`
 得到如下结果则说明成功
 
-![ss](https://github.com/WeaklyChicken/ES2016_14353087/exampleResult.png)
+![](https://github.com/WeaklyChicken/ES2016_14353087/blob/master/exampleResult.png)
 
 
 
